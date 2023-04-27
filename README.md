@@ -12,3 +12,7 @@ En el directorio principal del proyecto debemos correr el comando de Docker comp
 
 Las imágenes y contenedores serán creadas y la aplicación web estará disponible en http://localhost.
 El backend se encuentra disponible en el puerto 3000 y la base de datos en el 5432.
+
+## Pruebas con Postman
+
+En el archivo Posts.postman_collection.json se encuentran los request "Get Posts", "Delete Post By Id" y "Create Post" para hacer uso de backend directamente.
